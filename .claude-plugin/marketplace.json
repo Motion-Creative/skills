@@ -1,26 +1,24 @@
 {
-  "name": "skills",
-  "version": "1.0.0",
-  "description": "Creative advertising skills for hooks, ad concepts, and UGC scripts — built by Motion",
-  "author": {
+  "name": "motion-creative-skills",
+  "owner": {
     "name": "Motion",
-    "email": "support@motionapp.com",
-    "url": "https://www.motionapp.com"
+    "email": "support@motionapp.com"
   },
-  "homepage": "https://www.motionapp.com",
-  "repository": "https://github.com/motion-creative/skills",
-  "license": "MIT",
-  "keywords": [
-    "advertising",
-    "creative",
-    "hooks",
-    "ugc",
-    "paid-social",
-    "marketing"
-  ],
-  "skills": [
-    "hooks-generator",
-    "ad-concept-generator",
-    "ugc-scriptwriter"
+  "metadata": {
+    "description": "Creative advertising skills for hooks, ad concepts, and UGC scripts",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "description": "Hooks generation, ad concept development, and UGC scriptwriting for paid social",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./hooks-generator",
+        "./ad-concept-generator",
+        "./ugc-scriptwriter"
+      ]
+    }
   ]
 }
