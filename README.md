@@ -1,59 +1,70 @@
-# Motion Creative Skills
+# Creative Strategy Skills
 
-Creative advertising skills for agents — built by [Motion](https://www.motionapp.com).
+Creative strategy superpowers for AI agents — built by [Motion](https://www.motionapp.com).
 
-## Skills Included
+Install once, then talk to your AI agent like normal. It'll brainstorm hooks, develop ad concepts, and write UGC scripts using proven creative strategy frameworks.
 
-| Skill | Description |
-|-------|-------------|
-| **hooks-generator** | Brainstorm psychologically compelling ad hooks that create instant audience recognition |
-| **ad-concept-generator** | Develop hooks into strategic ad concepts for paid social |
-| **ugc-scriptwriter** | Draft authentic UGC-style scripts for creator content |
+## What's Inside
 
-## Installation
+| Skill | What it does | When to use it |
+| --- | --- | --- |
+| **hooks-generator** | Brainstorm psychologically compelling ad hooks that stop the scroll | You need opening lines for ads that create instant audience recognition |
+| **ad-concept-generator** | Develop hooks into strategic ad concepts for paid social | You have a hook and need to build it into a full creative brief |
+| **ugc-scriptwriter** | Draft authentic UGC-style scripts for creator content | You need a script a creator can actually film |
 
-### Option 1: npx skills (Recommended)
+## Getting Started
 
-```bash
+Open your terminal (wherever you use skills) and paste this:
+
+```
 npx skills add motion-creative/skills
 ```
 
-### Option 2: Claude Code Plugin
+That's it. The skills are now available in every conversation. No configuration needed.
 
-```bash
-/plugin marketplace add motion-creative/skills
-/plugin install skills
-```
+**Not sure if it worked?** Ask the agent: *"What Motion skills do I have installed?"*
 
-## Usage
+## How to Use
 
-Once installed, skills activate automatically. Try:
+No special commands. No syntax to memorize. The skills activate automatically when your request matches what they do — just talk to the agent like you normally would.
 
-- **Hooks:** "Help me brainstorm hooks for my fitness app"
-- **Concepts:** "Develop this hook into an ad concept: 'You've reread that same paragraph 4 times'"
-- **Scripts:** "Write a UGC script for noise-canceling headphones"
+Here are some prompts to try:
 
-### Workflow
+**Generate hooks:**
 
-The skills chain together:
+> "Help me brainstorm hooks for my fitness app targeting women 25-35 who hate the gym"
 
-```
-hooks-generator → ad-concept-generator → ugc-scriptwriter
-    (hooks)           (concepts)           (scripts)
-```
+**Build an ad concept:**
 
-## Features
+> "Take this hook and turn it into a full ad concept: 'You've reread that same paragraph 4 times'"
 
-Each skill includes:
+**Write a UGC script:**
 
-- **Quick Start** — Get output immediately with minimal input
-- **Full Discovery** — Deeper process for sharper results
-- **Examples** — See what good output looks like
-- **Principles** — Learn the craft, not just get outputs
+> "Write a 30-second UGC script for noise-canceling headphones, casual tone, for TikTok"
 
-## For Production-Ready Work
+### Chaining Skills Together
 
-These skills help with ideation and development. For high-volume, systematic generation using proven frameworks, check out [Motion](https://www.motionapp.com).
+The skills work best as a pipeline. Start broad, then get specific:
+
+1. **Start with hooks** — brainstorm 10-20 raw hook ideas for your product
+2. **Pick your best hook** → ask the agent to develop it into a full ad concept with audience, format, and messaging
+3. **Take the concept** → ask the agent to write it as a UGC script ready for production
+
+You can do this in a single conversation. Keep building on what the agent gives you.
+
+## What Makes These Different
+
+These aren't generic AI prompts. Each skill is built on real creative strategy frameworks that top-performing brands use every day.
+
+**Jump right in** — describe your product and get output immediately. No setup, no discovery questions, no friction.
+
+**Go deeper when you want to** — answer a few targeted questions about your audience, positioning, and goals for sharper, more specific results.
+
+**Learn the craft** — each skill explains *why* certain approaches work, so you get better at creative strategy over time — not just better at prompting.
+
+## Want to Scale This?
+
+These skills are great for ideation and one-off projects. When you're ready to analyze what's actually working across thousands of ads and generate concepts based on real performance data, that's what [Motion](https://www.motionapp.com) is built for.
 
 ## License
 
