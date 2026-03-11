@@ -15,7 +15,9 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./hooks-generator",
+        "./hook-writing",
+        "./hook-tactics",
+        "./hook-voice-patterns",
         "./ad-concept-generator",
         "./ugc-scriptwriter"
       ]
