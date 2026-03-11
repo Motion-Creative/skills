@@ -15,7 +15,7 @@ This skill helps you develop scripts for user-generated content (UGC) style ads.
 
 | Task | Use Instead |
 |------|-------------|
-| Generating hooks from scratch | **hooks-generator** |
+| Writing hooks and opening lines | **hook-writing** |
 | Developing hooks into concepts | **ad-concept-generator** |
 
 ---

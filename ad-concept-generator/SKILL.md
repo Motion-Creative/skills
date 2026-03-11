@@ -15,7 +15,7 @@ This skill helps you develop hooks or ideas into strategic ad concepts for paid 
 
 | Task | Use Instead |
 |------|-------------|
-| Generating hooks from scratch | **hooks-generator** |
+| Writing hooks and opening lines | **hook-writing** |
 | Writing UGC scripts from concepts | **ugc-scriptwriter** |
 
 ---
