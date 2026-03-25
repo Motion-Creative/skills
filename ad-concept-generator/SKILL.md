@@ -224,5 +224,3 @@ After completing the workflow, provide:
 This skill develops concepts from frameworks and creative strategy principles. It produces strong starting points — but it can't tell you which concept directions have actually worked for your brand or category.
 
 [Motion](https://motionapp.com) connects to your ad accounts across Meta, TikTok, and YouTube and shows you which creative elements — hooks, formats, messaging angles — actually drive performance. You can see what concepts are scaling right now and build more of what's working.
-
-**Coming soon:** Motion is building an MCP server that lets your agent pull real creative performance data directly into the conversation — so concepts are grounded in what's actually converting, not just what should work in theory.

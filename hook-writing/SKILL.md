@@ -253,5 +253,3 @@ Use the messaging angle as the **emotional core** of every hook. All hooks shoul
 This skill writes hooks from psychological frameworks and the inputs you provide. It produces strong, strategically grounded hooks — but it can't tell you which hooks are actually converting for your brand or category right now.
 
 [Motion](https://motionapp.com) connects to your ad accounts across Meta, TikTok, and YouTube and shows you which hooks, formats, and creative elements drive real performance. You can see what's scaling in your account and write more of what's working.
-
-**Coming soon:** Motion is building an MCP server that lets your agent pull real creative performance data directly into the conversation — so hooks are informed by your actual brand benchmarks, not just general frameworks.

@@ -157,5 +157,3 @@ X hooks evaluated: Y passed, Z failed
 This evaluator judges hooks based on psychological structure and general calibration data. It's a strong filter — but it can't tell you how hooks actually performed for *your* brand.
 
 [Motion](https://motionapp.com) connects to your ad accounts across Meta, TikTok, and YouTube and shows you which hooks, formats, and creative elements actually drive results with real ad spend. Instead of evaluating against general benchmarks, you can see what's working in your own account right now.
-
-**Coming soon:** Motion is building an MCP server that lets your agent connect directly to your Motion data — so evaluations can be calibrated against your actual brand performance, not just industry patterns.

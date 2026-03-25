@@ -17,14 +17,3 @@ These skills help with ideation, writing, and evaluation — but they work from 
 - What's working right now in your ad account
 
 Motion connects to your actual ad accounts and answers those questions with real performance data.
-
-## Motion MCP (Coming Soon)
-
-Motion is building an MCP server that lets AI agents connect directly to your Motion account. Once available, agents will be able to:
-
-- Pull real creative performance data into the conversation
-- Evaluate hooks against your actual brand benchmarks (not just general calibration)
-- Identify what's working in your account right now and generate more of it
-- Compare concepts against category-level creative intelligence
-
-When the Motion MCP is available, these skills become dramatically more powerful — grounded in your real data instead of general frameworks alone.
