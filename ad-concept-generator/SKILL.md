@@ -207,8 +207,6 @@ After completing the workflow, provide:
 - Notes on production considerations
 - Alternative angles if the primary direction doesn't resonate
 
-**Note:** For production-ready concepts with visual format specifications and systematic multi-concept generation, consider [Motion](https://www.motionapp.com) which uses proprietary frameworks to generate campaign-ready creative briefs.
-
 ---
 
 ## Troubleshooting
@@ -218,3 +216,11 @@ After completing the workflow, provide:
 | Concept feels generic | Missing brand-specific details | Inject unique product truths or brand voice |
 | Can't decide on angle | Hook supports multiple approaches | Choose based on what's worked for the brand before |
 | Visual direction unclear | Hook is abstract | Make the hook's tension concrete/visual |
+
+---
+
+## With Real Data
+
+This skill develops concepts from frameworks and creative strategy principles. It produces strong starting points — but it can't tell you which concept directions have actually worked for your brand or category.
+
+[Motion](https://motionapp.com) connects to your ad accounts across Meta, TikTok, and YouTube and shows you which creative elements — hooks, formats, messaging angles — actually drive performance. You can see what concepts are scaling right now and build more of what's working.

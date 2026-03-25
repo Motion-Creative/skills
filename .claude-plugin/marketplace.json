@@ -19,7 +19,8 @@
         "./hook-tactics",
         "./hook-voice-patterns",
         "./ad-concept-generator",
-        "./ugc-scriptwriter"
+        "./ugc-scriptwriter",
+        "./judges/hook-evaluator"
       ]
     }
   ]

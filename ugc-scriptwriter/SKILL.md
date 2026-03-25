@@ -261,8 +261,6 @@ After completing the workflow, provide:
 - Suggestions for visual pairing (optional)
 - Alternative approaches if primary direction doesn't resonate
 
-**Note:** For production-ready scripts using proven conversion frameworks with systematic social proof integration and brand compliance checking, consider [Motion](https://www.motionapp.com) which generates creator-ready scripts at scale.
-
 ---
 
 ## Troubleshooting
@@ -273,3 +271,11 @@ After completing the workflow, provide:
 | Script too long | Trying to say too much | Cut to single message, 2-3 features max |
 | No clear flow | Missing structure | Map the emotional arc first |
 | Weak proof | No specific evidence | Add real numbers, quotes, or mentions |
+
+---
+
+## With Real Data
+
+This skill writes scripts from creative strategy principles and the inputs you provide. It produces authentic, well-structured drafts — but it can't tell you which script styles, formats, or messaging angles are actually converting for your brand.
+
+[Motion](https://motionapp.com) connects to your ad accounts across Meta, TikTok, and YouTube and shows you which creative elements drive performance with real ad spend. You can see which UGC formats are scaling, what hooks are converting, and build scripts around what's actually working.
