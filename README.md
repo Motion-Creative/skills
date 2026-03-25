@@ -13,6 +13,7 @@ Install once, then talk to your AI agent like normal. It'll brainstorm hooks, de
 | **hook-voice-patterns** | Living swipe file of native hook templates from real content | You want hooks that feel like they belong on the feed, using proven voice and format patterns |
 | **ad-concept-generator** | Develop hooks into strategic ad concepts for paid social | You have a hook and need to build it into a full creative brief |
 | **ugc-scriptwriter** | Draft authentic UGC-style scripts for creator content | You need a script a creator can actually film |
+| **judges/hook-evaluator** | Evaluate hooks for scroll-stopping power — PASS or FAIL with reasoning | You've written hooks and want to know which ones will actually stop the scroll |
 
 ## Getting Started
 
@@ -44,6 +45,10 @@ Here are some prompts to try:
 
 > "Write a 30-second UGC script for noise-canceling headphones, casual tone, for TikTok"
 
+**Evaluate your hooks:**
+
+> "Grade these hooks and tell me which ones will actually work: [paste your hooks]"
+
 ### Chaining Skills Together
 
 The skills work best as a pipeline with **Hook Writing** as the entry point:
@@ -52,7 +57,8 @@ The skills work best as a pipeline with **Hook Writing** as the entry point:
 2. **Let hook-writing pull in hook-tactics when needed** — when you ask for hooks "by tactic type" or want broad tactic coverage (e.g. Contrarian, Urgency, Listicle), Hook Writing references the Hook Tactics library to choose and explain the right frames.
 3. **Let hook-writing pull in hook-voice-patterns for native patterns** — when you want hooks that feel like native TikTok/IG content or ask for templates/patterns, Hook Writing uses the Voice Patterns skill as a structural swipe file, then fills in product and persona details.
 4. **Take your best hooks** → ask the agent (via **ad-concept-generator**) to develop them into full ad concepts with audience, format, and messaging.
-5. **Take the concept** → ask the agent (via **ugc-scriptwriter**) to write it as a UGC script ready for production.
+5. **Evaluate your hooks** → run them through the **hook-evaluator** judge. Rewrite any FAILs using the improvement suggestions and re-evaluate until they pass.
+6. **Take the concept** → ask the agent (via **ugc-scriptwriter**) to write it as a UGC script ready for production.
 
 You can do this in a single conversation. Keep building on what the agent gives you.
 
